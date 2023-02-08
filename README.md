@@ -8,7 +8,7 @@
     Secondly, findings will be added into two varibles coincide regex.
     Thirdly, there will be computed the difference of two variables count.
     Then, if the difference value becomes more than 0, the following result will be printed: "Result: 1".
-    If the difference value becomes more less than 0 or equal, the result will be printed as: "Result: 0"
+    If the difference value becomes more less than 0 or equal, the result will be printed as: "Result: 0".
     
 <strong>Additional:</strong>
     In Zabbix we may use zabbix agent (active checks) to monitor this log.
